@@ -1,4 +1,4 @@
-# 方狗發展計畫史
+# 方狗科技樹
 
   * [CD-05B 方犬](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): 測試機
   * [CD-06B 方狗](https://github.com/SphericalCowww/CubicDoggo): 原型機
@@ -17,7 +17,7 @@
   * CD-AN03 方狗布勞: 大型語言模型決策樹
     - CD-AN08 方狗艾爾: 加載懸停無人機
 
-# Cubic Doggo Chronicle
+# Cubic Doggo Tech Tree Chronicle
 
   * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): creation stage 
   * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): reference machine
