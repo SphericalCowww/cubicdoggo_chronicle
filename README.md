@@ -1,14 +1,13 @@
 # 方狗科技樹
 
   * [CD-05B 方犬](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): 測試機 <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
-
   * [CD-06B 方狗](https://github.com/SphericalCowww/CubicDoggo): 原型機 <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06R 高機動方狗](https://github.com/SphericalCowww/CubicDoggo_06R): 結構強化，加裝 IMU 慣性測量單元 <img src="https://github.com/SphericalCowww/CubicDoggo_06R/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06Z 精神感應方狗](https://github.com/SphericalCowww/CubicDoggo_06Z): 物理模擬，強化學習 <img src="https://github.com/SphericalCowww/CubicDoggo_06Z/blob/main/fig_MuJoCo.webp" height="100">
   * [CD-07B 方狗夫](https://github.com/SphericalCowww/CubicDoggo_07B): 採用高扭力、低成本的伺服馬達 <img src="https://github.com/SphericalCowww/CubicDoggo_07B/blob/main/fig_Wouf0.png" height="100">
     - [CD-07R-35 高機動方狗夫](https://github.com/SphericalCowww/CubicDoggo_07R-35): 步態優化，加裝 IMU 慣性測量單元
     - CD-07B-3 特裝型方狗夫: 加裝光達，攝像機，和麥克風
-    - CD-N01 精神感應方狗夫: 物理模擬，強化學習
+    - [CD-N01 精神感應方狗夫](https://github.com/SphericalCowww/CubicDoggo_N01): 物理模擬，強化學習
   * CD-09B 方狗姆: 加裝輪胎
     - CD-09R 里克方狗姆: 輪腳共驅，光達導航
   * [CD-14A 方狗古](https://github.com/SphericalCowww/CubicDoggo_14A): 加裝機械臂，[機甲奪旗賽](https://github.com/SphericalCowww/tag_of_flag)專用
@@ -27,7 +26,7 @@
   * [CD-07B Cubic Wouf](https://github.com/SphericalCowww/CubicDoggo_07B): with stronger and cheaper servos <img src="https://github.com/SphericalCowww/CubicDoggo_07B/blob/main/fig_Wouf0.png" height="100">
     - [CD-07R-35 Wouf High IMUbility](https://github.com/SphericalCowww/CubicDoggo_07R-35): gait optimization and with IMU
     - CD-07B-3 Wouf Custom: with LIDAR, camera, and microphone
-    - CD-N01 Isaac Neucommu: with simulation (Isaac Sim) and reinforcement learning (Isaac Lab)
+    - [CD-N01 Isaac Neucommu](https://github.com/SphericalCowww/CubicDoggo_N01): with simulation (Isaac Sim) and reinforcement learning (Isaac Lab)
   * CD-09B Dogm: with wheels
     - CD-09R Rick Dogm: wheel-leg coordination, and with LiDAR and ROS2 Nav2
   * [CD-14A Googboi](https://github.com/SphericalCowww/CubicDoggo_14A): with SO-101 arm, designed for the [Tag of Flag](https://github.com/SphericalCowww/tag_of_flag) game
