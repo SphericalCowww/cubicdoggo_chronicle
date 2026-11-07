@@ -20,8 +20,8 @@
 
 # Cubic Doggo Tech Tree Roadmap
 
-  * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): creation stage <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
-  * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): reference machine <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
+  * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): test machine <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
+  * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): prototype <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06R Doggo High Mobility](https://github.com/SphericalCowww/CubicDoggo_06R): mechanical improvements and with IMU <img src="https://github.com/SphericalCowww/CubicDoggo_06R/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06Z Doggo Neucommu](https://github.com/SphericalCowww/CubicDoggo_06Z): with simulation (Gazebo/MuJoCo) and reinforcement learning (PyTorch) <img src="https://github.com/SphericalCowww/CubicDoggo_06Z/blob/main/fig_MuJoCo.webp" height="100">
   * [CD-07B Cubic Wouf](https://github.com/SphericalCowww/CubicDoggo_07B): with stronger and cheaper servos <img src="https://github.com/SphericalCowww/CubicDoggo_07B/blob/main/fig_Wouf0.png" height="100">
