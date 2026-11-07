@@ -18,7 +18,7 @@
   * CD-AN03 方狗布勞: 大型語言模型決策樹
     - CD-AN08 方狗艾爾: 加載懸停無人機
 
-# Cubic Doggo Tech Tree Chronicle
+# Cubic Doggo Tech Tree Roadmap
 
   * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): creation stage <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
   * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): reference machine <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
