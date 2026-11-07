@@ -1,10 +1,11 @@
 # 方狗科技樹
 
-  * [CD-05B 方犬](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): 測試機
-  * [CD-06B 方狗](https://github.com/SphericalCowww/CubicDoggo): 原型機
-    -  [CD-06R 高機動方狗](https://github.com/SphericalCowww/CubicDoggo_06R): 結構強化，加裝 IMU 慣性測量單元
+  * [CD-05B 方犬](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): 測試機 <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
+
+  * [CD-06B 方狗](https://github.com/SphericalCowww/CubicDoggo): 原型機 <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
+    -  [CD-06R 高機動方狗](https://github.com/SphericalCowww/CubicDoggo_06R): 結構強化，加裝 IMU 慣性測量單元 <img src="https://github.com/SphericalCowww/CubicDoggo_06R/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06Z 精神感應方狗](https://github.com/SphericalCowww/CubicDoggo_06Z): 物理模擬，強化學習
-  * [CD-07B 方狗夫](https://github.com/SphericalCowww/CubicDoggo_07B): 採用高扭力、低成本的伺服馬達
+  * [CD-07B 方狗夫](https://github.com/SphericalCowww/CubicDoggo_07B): 採用高扭力、低成本的伺服馬達 <img src="https://github.com/SphericalCowww/CubicDoggo_07B/blob/main/fig_Wouf0.png" height="100">
     - [CD-07R-35 高機動方狗夫](https://github.com/SphericalCowww/CubicDoggo_07R-35): 步態優化，加裝 IMU 慣性測量單元
     - CD-07B-3 特裝型方狗夫: 加裝光達，攝像機，和麥克風
     - CD-N01 精神感應方狗夫: 物理模擬，強化學習
@@ -19,11 +20,11 @@
 
 # Cubic Doggo Tech Tree Chronicle
 
-  * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): creation stage 
-  * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): reference machine
-    -  [CD-06R Doggo High Mobility](https://github.com/SphericalCowww/CubicDoggo_06R): mechanical improvements and with IMU
+  * [CD-05B Cubic Dogo](https://github.com/SphericalCowww/ROS_leggedRobot_testBed): creation stage <img src="https://github.com/SphericalCowww/ROS_leggedRobot_testBed/blob/main/CubicDogo.png" width="100">
+  * [CD-06B Cubic Doggo](https://github.com/SphericalCowww/CubicDoggo): reference machine <img src="https://github.com/SphericalCowww/ROS_Cubic_Doggo/blob/main/CubicDoggo2.png" height="100"> 
+    -  [CD-06R Doggo High Mobility](https://github.com/SphericalCowww/CubicDoggo_06R): mechanical improvements and with IMU <img src="https://github.com/SphericalCowww/CubicDoggo_06R/blob/main/CubicDoggo2.png" height="100"> 
     -  [CD-06Z Doggo Neucommu](https://github.com/SphericalCowww/CubicDoggo_06Z): with simulation (Gazebo/MuJoCo) and reinforcement learning (PyTorch)
-  * [CD-07B Cubic Wouf](https://github.com/SphericalCowww/CubicDoggo_07B): with stronger and cheaper servos
+  * [CD-07B Cubic Wouf](https://github.com/SphericalCowww/CubicDoggo_07B): with stronger and cheaper servos <img src="https://github.com/SphericalCowww/CubicDoggo_07B/blob/main/fig_Wouf0.png" height="100">
     - [CD-07R-35 Wouf High IMUbility](https://github.com/SphericalCowww/CubicDoggo_07R-35): gait optimization and with IMU
     - CD-07B-3 Wouf Custom: with LIDAR, camera, and microphone
     - CD-N01 Isaac Neucommu: with simulation (Isaac Sim) and reinforcement learning (Isaac Lab)
