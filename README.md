@@ -37,4 +37,19 @@
   * CD-AN03 Brawboi: LLM decision tree, https://github.com/Sollimann/bonsai
     - CD-AN08 Elmutt: LLM and with drone hovering on the top: https://ts2.store/en/11643-ryze-tello-educational-drone.html?ts2_country=DE&ts2_currency=EUR
 
+## Servo comparison considerations
+
+  * Torque density: Nm/kg of actuator
+  * Static torque margin: Available torque minus torque required to support the robot
+  * Dynamic torque reserve: Available torque beyond the requirements of the intended gait and disturbances
+
+For larger robots, the dynamic torque reserve matters more, so BLDC is the go-to choice. For smaller robots, torque density and static torque margin matter more, so serial-bus or PWM servos make more sense. To have position/velicity feedback for closed-loop reinforcement training, the serial-bus servos will be the final choice
+
+## Regarding grip on the feet
+
+  * It will enable a faster walking gait and reduce vertical force when carrying payload
+  * It, however, adds significant complication in requiring precise foot positioning by the gait algorithm. For instance, the standing-up sequence cannot just let the feet slide into position, but must lift and place them in position. Every operation requires lifting the legs
+  * Doing the precise footing wrong with high grip will sharply increase vertical forces against the servos, causing a sort of implosion of the robot's legs
+  * Having tested no-grip walking on a smooth surface versus on a carpet, the walk gait is not all of a sudden better on the carpet because of the increase in grip. The walk gait smoothness is more a matter of robot body balancing than about adding grip to the feet
+
 
