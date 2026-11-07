@@ -9,9 +9,9 @@
     - CD-07B-3 特裝型方狗夫: 加裝光達，攝像機，和麥克風
     - [CD-N01 精神感應方狗夫](https://github.com/SphericalCowww/CubicDoggo_N01): 物理模擬，強化學習
   * CD-09B 方狗姆: 加裝輪胎
-    - CD-09R 里克方狗姆: 輪腳共驅，光達導航
+    - CD-09R 里克方狗姆: 輪腳整合優化，光達導航
   * [CD-14A 方狗古](https://github.com/SphericalCowww/CubicDoggo_14A): 加裝機械臂，[機甲奪旗賽](https://github.com/SphericalCowww/tag_of_flag)專用
-    - CD-14B 高機動方狗古: 機械臂結構和控制優化，加裝 IMU 慣性測量單元
+    - CD-14B 高機動方狗古: 臂腳整合優化，加裝 IMU 慣性測量單元
     - CD-N02 方狗克: 臂腳物理模擬，強化學習
   * CD-Y15 方狗甘恩
   * CD-AN03 方狗布勞: 大型語言模型決策樹
@@ -28,9 +28,9 @@
     - CD-07B-3 Wouf Custom: with LIDAR, camera, and microphone
     - [CD-N01 Isaac Neucommu](https://github.com/SphericalCowww/CubicDoggo_N01): with simulation (Isaac Sim) and reinforcement learning (Isaac Lab)
   * CD-09B Dogm: with wheels
-    - CD-09R Rick Dogm: wheel-leg coordination, and with LiDAR and ROS2 Nav2
+    - CD-09R Rick Dogm: wheel-leg integration/optimization, and with LiDAR and ROS2 Nav2
   * [CD-14A Googboi](https://github.com/SphericalCowww/CubicDoggo_14A): with SO-101 arm, designed for the [Tag of Flag](https://github.com/SphericalCowww/tag_of_flag) game
-    - CD-14B Goog Zoomie Mobility: arm optimization and with IMU
+    - CD-14B Goog Zoomie Mobility: arm-leg integration/optimization and with IMU
     - CD-N02 Doggg: arm-leg coordination with RL
   * CD-Y15 Gyanine
   * CD-AN03 Brawboi: LLM decision tree, https://github.com/Sollimann/bonsai
