@@ -9,10 +9,10 @@
     - CD-07B-3 特裝型方狗夫: 加裝光達，攝像機，和麥克風
     - [CD-N01 精神感應方狗夫](https://github.com/SphericalCowww/CubicDoggo_N01): 物理模擬，強化學習
   * CD-09B 方狗姆: 加裝輪胎
-    - CD-09R 里克方狗姆: 輪腳協同優化，光達導航
+    - CD-09R 里克方狗姆: 輪腳整合優化，光達導航
   * [CD-14A 方狗古](https://github.com/SphericalCowww/CubicDoggo_14A): 加裝機械臂，[機甲奪旗賽](https://github.com/SphericalCowww/tag_of_flag)專用
-    - CD-14B 高機動方狗古: 臂腳協同優化，加裝 IMU 慣性測量單元
-    - CD-N02 方狗克: 臂腳物理模擬，強化學習
+    - CD-14B 高機動方狗古: 臂腳整合優化，加裝 IMU 慣性測量單元
+    - CD-N02 方狗克: 臂腳協同物理模擬，強化學習
   * CD-Y15 方狗甘恩
   * CD-AN03 方狗布勞: 大型語言模型決策樹
     - CD-AN08 方狗艾爾: 加載懸停無人機
